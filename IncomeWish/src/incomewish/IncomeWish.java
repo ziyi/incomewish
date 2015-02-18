@@ -3,7 +3,6 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
 package incomewish;
 
 /**
@@ -16,14 +15,14 @@ public class IncomeWish {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-    String name;
-    int age;
-    double annualPay;
-    name = "Joe Mahoney";
-    age = 26;
-    annualPay = 100000;
-    System.out.println("My name is " + name + ". " + "My age is " + age + " and " 
-            + "I hope to earn " + annualPay + " per year.");
+        String name;
+        int age;
+        double annualPay;
+        name = "Ziying Guo";
+        age = 21;
+        annualPay = 100000;
+        System.out.println("My name is " + name + ". " + "My age is " + age + " and "
+                + "I hope to earn " + annualPay + " per year.");
     }
-    
+
 }
